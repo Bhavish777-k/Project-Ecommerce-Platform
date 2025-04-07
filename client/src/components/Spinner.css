@@ -1,0 +1,16 @@
+.spinner-container {
+    display: flex;
+    flex-direction: column; /* Stacks text and button vertically */
+    justify-content: center; /* Centers content vertically */
+    align-items: center; /* Centers content horizontally */
+    height: 100vh; /* Full viewport height */
+  }
+  
+  .text-wrapper {
+    margin-bottom: 20px; /* Adds space below the text */
+    text-align: center; /* Ensures the text is properly centered */
+  }
+  
+  .button-wrapper {
+    margin-top: 10px; /* Adds space above the button */
+  }
